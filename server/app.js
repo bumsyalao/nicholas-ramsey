@@ -1,7 +1,6 @@
 import express from 'express';
 import logger from 'morgan';
 import bodyParser from 'body-parser';
-import path from 'path';
 import mongoose from 'mongoose';
 
 require('dotenv').config();
